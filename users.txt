@@ -1,0 +1,5 @@
+Azizova,Samira,18,abc123@gmail.com,12345678,Female
+Safarova,Samiya,20,somebody321@gmail.com,987654,Female
+Amirkulov,Umid,18,umid123@gmail.com,12345678,Male
+Boykobilov,Alisher,20,abc@gmail.com,12345678,Male
+Aliyev,Sardor,19,abs1@gmail.com,1234567891011,Male
